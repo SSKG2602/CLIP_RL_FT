@@ -1,6 +1,6 @@
 # CLIP_RL_FT
 CLIP fine tunned with Reinforcement Learning 
-CLIP Fine-Tuning and Reinforcement Learning
+CLIP Fine-Tuning and Reinforcement Learning 
 This project demonstrates the fine-tuning of OpenAI's CLIP model using supervised learning and reinforcement learning (RL). The workflow includes data preparation, model training, validation, RL fine-tuning, and testing, showcasing a comprehensive pipeline for improving a vision-language model.
 Features
 	•	Fine-tuning the CLIP model on a subset of the MS COCO dataset.
