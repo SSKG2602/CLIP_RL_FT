@@ -46,19 +46,6 @@ Results
 Model Saving
 	•	Fine-tuned Model: Saved under clip_finetuned/
 	•	RL Fine-tuned Model: Saved under clip_rl_finetuned/
-File Structure
-CLIP_RL_FT/
-├── Model/                     # Contains the trained models and related artifacts
-│   ├── clip_rl_finetuned/     # Fine-tuned CLIP-RL model files
-│   	        
-├── Scripts/                   # Scripts for training, testing, and usage
-│   ├── TrainCLIP.ipynb        # Supervised learning script
-│   ├── TrainCLIP_RL.ipynb     # RL fine-tuning script
-│   ├── Test_CLIP_RL.ipynb     # Testing script
-│   └── UseME_CLIP_BLIP.ipynb  # Script for user input and BLIP usage
-│
-├── requirements.txt           # Dependencies for the project
-├── README                     # Detailed documentation 
 
 Future Improvements
 	•	Extend the reward function for more sophisticated RL objectives.
